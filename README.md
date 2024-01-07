@@ -4,4 +4,5 @@ PySpamDetector es un detector de correos electrónicos spam y no spam desarrolla
 
 ## Características Principales
 - Utiliza Pandas, HTMLParser, os, y nltk LogisticRegression.
-- Con un conjunto de datos de 10,000 correos, logra una efectividad del 90% en pruebas de 2,000 correos.
+- Contiene DataSet para entrenar con mas de 70,000 correos etiquetados
+- Con un conjunto de datos de 10,000 correos, logra una efectividad aproximada del 90% en pruebas de 2,000 correos nuevos.
