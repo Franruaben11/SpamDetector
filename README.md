@@ -1,6 +1,6 @@
 # PySpamDetector
 
-PySpamDetector es un detector de correos electrónicos spam y no spam desarrollado en Python.
+PySpamDetector es un detector de correos electrónicos spam y no spam desarrollado en Python, utilice Jupyter Network para implementar el codigo
 
 ## Características Principales
 - Utiliza Pandas, HTMLParser, os, y nltk LogisticRegression.
