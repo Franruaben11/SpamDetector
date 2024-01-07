@@ -9,4 +9,4 @@ PySpamDetector es un detector de correos electrónicos spam y no spam desarrolla
 
 
 ## USO
--modelo_entrenado = load("modelo_entrenado.joblib") con esta linea nos ahorramos entrenar las primeras 10,000 lineas 
+- Con esta linea nos ahorramos entrenar las primeras 10,000 lineas. **modelo_entrenado = load("modelo_entrenado.joblib")** 
